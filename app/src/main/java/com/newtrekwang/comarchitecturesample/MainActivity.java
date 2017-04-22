@@ -1,13 +1,13 @@
 package com.newtrekwang.comarchitecturesample;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
-public class MainActivity extends AppCompatActivity {
-
+/**
+ * 运行时注解例子
+ */
+@ContentView(R.layout.activity_main)
+public class MainActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
     }
 }
