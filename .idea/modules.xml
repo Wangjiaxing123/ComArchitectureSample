@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ComArchitectureSample.iml" filepath="$PROJECT_DIR$/ComArchitectureSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compiler/compiler.iml" filepath="$PROJECT_DIR$/compiler/compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router/router.iml" filepath="$PROJECT_DIR$/router/router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleroute_1/simpleroute_1.iml" filepath="$PROJECT_DIR$/simpleroute_1/simpleroute_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleroute_2/simpleroute_2.iml" filepath="$PROJECT_DIR$/simpleroute_2/simpleroute_2.iml" />
     </modules>
   </component>
 </project>
